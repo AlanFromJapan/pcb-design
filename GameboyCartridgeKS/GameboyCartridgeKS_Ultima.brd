@@ -225,6 +225,8 @@
 <wire x1="37.5" y1="48.6" x2="37.5" y2="54.6" width="0.254" layer="21" style="shortdash"/>
 <wire x1="37.5" y1="54.6" x2="22.5" y2="54.6" width="0.254" layer="21" style="shortdash"/>
 <text x="32.6" y="55" size="0.6096" layer="21" font="vector" ratio="20" align="bottom-center">Pull-ups : 20k+ Ohm</text>
+<text x="3.2" y="19.9" size="0.6096" layer="21" font="vector" ratio="20" rot="R90" align="bottom-center">(/RD)</text>
+<text x="49.3" y="30.2" size="0.6096" layer="21" font="vector" ratio="20" rot="R90" align="bottom-center">(/OE)</text>
 </plain>
 <libraries>
 <library name="gameboy">
@@ -2533,7 +2535,7 @@ design rules under a new name.</description>
 <element name="TP7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="47.8" y="14.7" smashed="yes"/>
 <element name="TP8" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="46.6" y="17.4" smashed="yes"/>
 <element name="U$2" library="kalshagar-images" package="GAMEBOY_LOGO" value="" x="21.2" y="21" smashed="yes"/>
-<element name="U$3" library="kalshagar-images" package="PIGMAN1" value="" x="8" y="16.2" smashed="yes"/>
+<element name="U$3" library="kalshagar-images" package="PIGMAN1" value="" x="10.4" y="15.9" smashed="yes"/>
 <element name="TP9" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="5.2" y="14.7" smashed="yes"/>
 <element name="TP10" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="8.3" y="12.5" smashed="yes"/>
 <element name="TP11" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="4.6" y="17.8" smashed="yes"/>
@@ -2573,6 +2575,11 @@ design rules under a new name.</description>
 <element name="JP5" library="SparkFun-Jumpers" package="SMT-JUMPER_2_NO_NO-SILK" package3d_urn="urn:adsk.eagle:package:39277/1" value="JUMPER-SMT_2_NO_NO-SILK" x="12.5" y="50.7" smashed="yes" rot="R270">
 <attribute name="VALUE" x="11.357" y="50.7" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
+<element name="TP14" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="4.1" y="20.6" smashed="yes"/>
+<element name="JP6" library="SparkFun-Jumpers" package="SMT-JUMPER_2_NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39281/1" value="JUMPER-SMT_2_NC_TRACE_SILK" x="6.8" y="20.6" smashed="yes" rot="R90">
+<attribute name="VALUE" x="7.943" y="20.6" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
+</element>
+<element name="TP15" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="PAD.03X.05" package3d_urn="urn:adsk.eagle:package:38285/1" value="TEST-POINT3X5" x="47.8" y="29.8" smashed="yes"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -2828,21 +2835,12 @@ design rules under a new name.</description>
 </signal>
 <signal name="4">
 <contactref element="U$1" pad="4"/>
-<contactref element="IC1" pad="24"/>
-<wire x1="43.8" y1="29.03" x2="41.13" y2="29.03" width="0.2" layer="1"/>
-<wire x1="41.13" y1="29.03" x2="41.1" y2="29" width="0.2" layer="1"/>
-<wire x1="41.1" y1="29" x2="37.3" y2="29" width="0.2" layer="1"/>
-<wire x1="37.1" y1="28.8" x2="37.3" y2="29" width="0.2" layer="1"/>
-<via x="37.1" y="28.8" extent="1-16" drill="0.35"/>
-<wire x1="37.1" y1="28.8" x2="36.6" y2="28.8" width="0.2" layer="16"/>
-<wire x1="36.6" y1="28.8" x2="32.1" y2="24.3" width="0.2" layer="16"/>
-<wire x1="32.1" y1="24.3" x2="7.6" y2="24.3" width="0.2" layer="16"/>
-<wire x1="7.6" y1="24.3" x2="6.8" y2="23.5" width="0.2" layer="16"/>
-<wire x1="6.7" y1="10.7" x2="6.8" y2="10.8" width="0.2" layer="16"/>
-<wire x1="6.8" y1="23.5" x2="6.8" y2="10.8" width="0.2" layer="16"/>
-<via x="6.7" y="10.7" extent="1-16" drill="0.35"/>
-<wire x1="6.7" y1="10.7" x2="6.7" y2="4.05" width="0.2" layer="1"/>
-<wire x1="6.7" y1="4.05" x2="6.75" y2="4" width="0.2" layer="1"/>
+<wire x1="6.8" y1="4.05" x2="6.75" y2="4" width="0.2" layer="1"/>
+<contactref element="TP14" pad="P$1"/>
+<contactref element="JP6" pad="1"/>
+<wire x1="6.8" y1="20.092" x2="6.8" y2="4.05" width="0.254" layer="1"/>
+<wire x1="6.8" y1="20.092" x2="4.608" y2="20.092" width="0.254" layer="1"/>
+<wire x1="4.608" y1="20.092" x2="4.1" y2="20.6" width="0.254" layer="1"/>
 </signal>
 <signal name="11">
 <contactref element="U$1" pad="11"/>
@@ -2912,8 +2910,9 @@ design rules under a new name.</description>
 <wire x1="24.75" y1="4" x2="24.75" y2="7.55" width="0.2" layer="1"/>
 <wire x1="24.75" y1="7.55" x2="24.9" y2="7.7" width="0.2" layer="1"/>
 <via x="24.9" y="7.7" extent="1-16" drill="0.35"/>
-<wire x1="24.9" y1="7.7" x2="47.8" y2="7.7" width="0.2" layer="16"/>
-<wire x1="47.8" y1="7.7" x2="47.8" y2="27.8" width="0.2" layer="16"/>
+<wire x1="24.9" y1="7.7" x2="47.5" y2="7.7" width="0.2" layer="16"/>
+<wire x1="47.5" y1="27.5" x2="47.5" y2="7.7" width="0.2" layer="16"/>
+<wire x1="47.5" y1="27.5" x2="47.8" y2="27.8" width="0.2" layer="16"/>
 <via x="47.8" y="27.8" extent="1-16" drill="0.35"/>
 <wire x1="47.8" y1="27.8" x2="47.76" y2="27.76" width="0.2" layer="1"/>
 <wire x1="47.76" y1="27.76" x2="43.8" y2="27.76" width="0.2" layer="1"/>
@@ -3090,6 +3089,26 @@ design rules under a new name.</description>
 <contactref element="JP5" pad="1"/>
 <wire x1="12.5" y1="51.1064" x2="12.5" y2="54.445" width="0.254" layer="1"/>
 <wire x1="12.5" y1="54.445" x2="12.47" y2="54.445" width="0.254" layer="1"/>
+</signal>
+<signal name="N$3">
+<contactref element="IC1" pad="24"/>
+<contactref element="JP6" pad="2"/>
+<wire x1="6.8" y1="21.108" x2="6.8" y2="23.4" width="0.254" layer="1"/>
+<wire x1="6.8" y1="23.4" x2="7.3" y2="23.9" width="0.254" layer="1"/>
+<via x="7.3" y="23.9" extent="1-16" drill="0.35"/>
+<wire x1="7.3" y1="23.9" x2="8.7" y2="25.3" width="0.254" layer="16"/>
+<wire x1="8.7" y1="25.3" x2="34.5" y2="25.3" width="0.254" layer="16"/>
+<wire x1="34.5" y1="25.3" x2="36.9" y2="27.7" width="0.254" layer="16"/>
+<wire x1="36.9" y1="27.7" x2="36.9" y2="28.7" width="0.254" layer="16"/>
+<wire x1="36.9" y1="28.7" x2="37" y2="28.7" width="0.254" layer="16"/>
+<via x="37" y="28.7" extent="1-16" drill="0.35"/>
+<wire x1="37" y1="28.7" x2="37.3" y2="29" width="0.254" layer="1"/>
+<wire x1="43.77" y1="29" x2="37.3" y2="29" width="0.254" layer="1"/>
+<wire x1="43.77" y1="29" x2="43.8" y2="29.03" width="0.254" layer="1"/>
+<contactref element="TP15" pad="P$1"/>
+<wire x1="43.8" y1="29.03" x2="43.87" y2="29.1" width="0.254" layer="1"/>
+<wire x1="43.87" y1="29.1" x2="47.1" y2="29.1" width="0.254" layer="1"/>
+<wire x1="47.1" y1="29.1" x2="47.8" y2="29.8" width="0.254" layer="1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
