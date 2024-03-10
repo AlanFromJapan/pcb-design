@@ -108,8 +108,8 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
-<description>&lt;b&gt;Kalshagar.wikispaces.com&lt;/b&gt;
-&lt;p&gt;Additional components by AlanFromJapan for Kalshagar.wikispaces.com.
+<description>&lt;b&gt;electrogeek.cc&lt;/b&gt;
+&lt;p&gt;Additional components by AlanFromJapan for electrogeek.cc (formerly Kalshagar.wikispaces.com).
 Free to reuse and modify.&lt;/p&gt;</description>
 <packages>
 <package name="DIL20">
@@ -1222,6 +1222,26 @@ Free to reuse and modify.&lt;/p&gt;</description>
 <wire x1="0" y1="-2.54" x2="0" y2="2.54" width="0.127" layer="21" curve="-180"/>
 <wire x1="10.16" y1="2.54" x2="10.16" y2="-2.54" width="0.127" layer="21"/>
 </package>
+<package name="GB_LINK_CONNECTOR_CLASSIC">
+<description>&lt;b&gt;For Gameboy &lt;u&gt;ORIGINAL&lt;/u&gt; (the brick)&lt;/b&gt;&lt;br/&gt;
+This 6mm wide connector must be printed on &lt;b&gt;1.6mm thick PCB&lt;/b&gt; to work.&lt;br/&gt;
+&lt;u&gt;BEWARE:&lt;/u&gt; some/all (?) cables do NOT route VCC nor SD. You can do without them but forget being powered by the GB then...</description>
+<smd name="P$1" x="1" y="0" dx="1" dy="5" layer="1"/>
+<smd name="P$2" x="3" y="0" dx="1" dy="5" layer="1"/>
+<smd name="P$3" x="5" y="0" dx="1" dy="5" layer="1"/>
+<wire x1="0" y1="2.54" x2="0" y2="-3" width="0.127" layer="21"/>
+<wire x1="0" y1="-3" x2="6" y2="-3" width="0.127" layer="21"/>
+<wire x1="6" y1="-3" x2="6" y2="2.54" width="0.127" layer="21"/>
+<smd name="P$4" x="1" y="0" dx="1" dy="5" layer="16"/>
+<smd name="P$5" x="3" y="0" dx="1" dy="5" layer="16"/>
+<smd name="P$6" x="5" y="0" dx="1" dy="5" layer="16"/>
+<wire x1="0" y1="2.54" x2="0" y2="-3" width="0.127" layer="22"/>
+<wire x1="0" y1="-3" x2="6" y2="-3" width="0.127" layer="22"/>
+<wire x1="6" y1="-3" x2="6" y2="2.54" width="0.127" layer="22"/>
+<text x="2.978" y="-3.429" size="0.4064" layer="48" align="top-center">vv This side goes into the GB cable vv
+BEWARE: some (most? all?) cables do NOT route VCC or SD.</text>
+<text x="2.991" y="3.175" size="0.4064" layer="48" rot="R180" align="top-center">FOR GB ORIGINAL (brick)</text>
+</package>
 </packages>
 <symbols>
 <symbol name="PCF8584">
@@ -1766,6 +1786,21 @@ Free to reuse and modify.&lt;/p&gt;</description>
 <wire x1="-7.62" y1="17.78" x2="5.08" y2="17.78" width="0.254" layer="97" curve="-180"/>
 <wire x1="-7.62" y1="3.81" x2="5.08" y2="3.81" width="0.254" layer="97"/>
 </symbol>
+<symbol name="GB_LINK_CONNECTOR">
+<pin name="GB_VCC" x="-33.02" y="15.24" length="middle"/>
+<pin name="GB_MOSI" x="-33.02" y="10.16" length="middle"/>
+<pin name="GB_MISO" x="-33.02" y="5.08" length="middle"/>
+<pin name="GB_SD" x="-33.02" y="0" length="middle"/>
+<pin name="GB_CLK" x="-33.02" y="-5.08" length="middle"/>
+<pin name="GB_GND" x="-33.02" y="-10.16" length="middle"/>
+<wire x1="-27.94" y1="17.78" x2="-27.94" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="-27.94" y1="-12.7" x2="-26.67" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="-26.67" y1="-12.7" x2="-15.24" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="-15.24" y1="-12.7" x2="-15.24" y2="17.78" width="0.254" layer="94"/>
+<wire x1="-15.24" y1="17.78" x2="-26.67" y2="17.78" width="0.254" layer="94"/>
+<wire x1="-26.67" y1="17.78" x2="-27.94" y2="17.78" width="0.254" layer="94"/>
+<wire x1="-26.67" y1="17.78" x2="-26.67" y2="-12.7" width="0.254" layer="94"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="DS3231">
@@ -2216,7 +2251,35 @@ Sold here &lt;a href="http://akizukidenshi.com/catalog/g/gI-02225/"&gt;http://ak
 </device>
 </devices>
 </deviceset>
+<deviceset name="GB_LINK_CONNECTOR">
+<description>Gameboy Link connector (male), to be used with cables.&lt;br/&gt;
+(not direct connect since GB has male connector too)</description>
+<gates>
+<gate name="G$1" symbol="GB_LINK_CONNECTOR" x="7.62" y="0"/>
+</gates>
+<devices>
+<device name="" package="GB_LINK_CONNECTOR_CLASSIC">
+<connects>
+<connect gate="G$1" pin="GB_CLK" pad="P$6"/>
+<connect gate="G$1" pin="GB_GND" pad="P$3"/>
+<connect gate="G$1" pin="GB_MISO" pad="P$1"/>
+<connect gate="G$1" pin="GB_MOSI" pad="P$5"/>
+<connect gate="G$1" pin="GB_SD" pad="P$2"/>
+<connect gate="G$1" pin="GB_VCC" pad="P$4"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>

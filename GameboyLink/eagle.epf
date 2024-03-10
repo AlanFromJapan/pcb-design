@@ -1,0 +1,31 @@
+[Eagle]
+Version="09 05 02"
+Platform="Linux"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:237"
+UsedLibraryUrn="urn:adsk.eagle:library:252"
+UsedLibraryUrn="urn:adsk.eagle:library:259"
+UsedLibraryUrn="urn:adsk.eagle:library:264"
+UsedLibraryUrn="urn:adsk.eagle:library:325"
+UsedLibraryUrn="urn:adsk.eagle:library:334"
+UsedLibraryUrn="urn:adsk.eagle:library:105"
+UsedLibraryUrn="urn:adsk.eagle:library:388"
+UsedLibrary="/home/alan/Git/pcb-design/LBR/DS3231.lbr"
+UsedLibrary="/home/alan/Git/pcb-design/LBR/TMMH-109-01-G-DV-ES-A.lbr"
+UsedLibrary="/home/alan/Git/pcb-design/LBR/gameboy.lbr"
+UsedLibrary="/home/alan/Git/pcb-design/LBR/kalshagar.lbr"
+UsedLibrary="/home/alan/Git/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/home/alan/Git/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="/home/alan/Git/SparkFun-Eagle-Libraries/SparkFun-PowerSymbols.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="3600 1080"
+Window="Win_1"
