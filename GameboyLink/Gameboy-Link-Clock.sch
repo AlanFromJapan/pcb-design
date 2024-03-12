@@ -30798,8 +30798,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J_GB_ITF" library="SparkFun-Connectors" deviceset="CONN_06" device="NO_SILK_NO_POP"/>
 <part name="IC1" library="atmel" library_urn="urn:adsk.eagle:library:105" deviceset="MEGA8" device="-AI" package3d_urn="urn:adsk.eagle:package:4313/2"/>
 <part name="U$2" library="kalshagar" deviceset="DS3231" device="DS3231-SO16W"/>
-<part name="PUSCL1" library="resistor" deviceset="R-EU_" device="0204/5" value="10k"/>
-<part name="PUSDA1" library="resistor" deviceset="R-EU_" device="0204/5" value="10k"/>
+<part name="PUSCL1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/2V" package3d_urn="urn:adsk.eagle:package:23490/1" value="10k"/>
+<part name="PUSDA1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/2V" package3d_urn="urn:adsk.eagle:package:23490/1" value="10k"/>
 <part name="Q1" library="crystal" deviceset="CRYSTAL" device="HC49S" value="16MHz"/>
 <part name="C1" library="resistor" deviceset="C-EU" device="025-024X044" value="22pF"/>
 <part name="C2" library="resistor" deviceset="C-EU" device="025-024X044" value="22pF"/>
