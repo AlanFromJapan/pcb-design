@@ -30172,10 +30172,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <junction x="124.46" y="-111.76"/>
 </segment>
 <segment>
-<pinref part="USB_MINI" gate="G$1" pin="VBUS"/>
-<wire x1="350.52" y1="-68.58" x2="353.06" y2="-68.58" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="JP_POWER_SOURCE" gate="1" pin="2"/>
 <wire x1="114.3" y1="-48.26" x2="114.3" y2="-55.88" width="0.1524" layer="91"/>
 <label x="114.3" y="-58.42" size="1.778" layer="95"/>
@@ -30414,6 +30410,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="JP_POWER_SOURCE" gate="1" pin="3"/>
 <wire x1="116.84" y1="-48.26" x2="132.08" y2="-48.26" width="0.1524" layer="91"/>
 <label x="124.46" y="-45.72" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="USB_MINI" gate="G$1" pin="VBUS"/>
+<wire x1="350.52" y1="-68.58" x2="353.06" y2="-68.58" width="0.1524" layer="91"/>
+<label x="360.68" y="-68.58" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GB_VCC" class="0">
