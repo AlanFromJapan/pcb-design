@@ -30112,6 +30112,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="10k"/>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="10k"/>
 <part name="J_GB_DBG" library="SparkFun-Connectors" deviceset="CONN_03X2" device="FEMALE" value="FEMALE 2x3"/>
+<part name="J_ADC" library="SparkFun-Connectors" deviceset="CONN_02" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -30212,7 +30213,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="86.36" y="-164.592" size="1.778" layer="95" font="vector"/>
 </instance>
 <instance part="J_EXT" gate="J1" x="248.92" y="-137.16" smashed="yes" rot="R180">
-<attribute name="VALUE" x="251.46" y="-127.254" size="1.778" layer="96" font="vector" rot="R180"/>
 <attribute name="NAME" x="251.46" y="-145.288" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
 <instance part="R7" gate="G$1" x="269.24" y="-121.92" smashed="yes">
@@ -30262,6 +30262,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="J_GB_DBG" gate="G$1" x="78.74" y="-63.5" smashed="yes">
 <attribute name="NAME" x="75.184" y="-57.912" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="75.438" y="-69.342" size="1.778" layer="96" font="vector" align="top-left"/>
+</instance>
+<instance part="J_ADC" gate="J1" x="231.14" y="-101.6" smashed="yes" rot="R180">
+<attribute name="VALUE" x="233.68" y="-96.774" size="1.778" layer="96" font="vector" rot="R180"/>
+<attribute name="NAME" x="233.68" y="-107.188" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
 </instances>
 <busses>
@@ -30317,6 +30321,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="127" y1="-124.46" x2="127" y2="-119.38" width="0.1524" layer="91"/>
 <wire x1="127" y1="-119.38" x2="119.38" y2="-119.38" width="0.1524" layer="91"/>
 <junction x="119.38" y="-119.38"/>
+<pinref part="IC1" gate="G$1" pin="GND@2"/>
+<wire x1="152.4" y1="-134.62" x2="152.4" y2="-132.08" width="0.1524" layer="91"/>
+<junction x="152.4" y="-132.08"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="6"/>
@@ -30462,6 +30469,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="124.46" y1="-111.76" x2="124.46" y2="-99.06" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="-111.76" x2="124.46" y2="-111.76" width="0.1524" layer="91"/>
 <junction x="124.46" y="-111.76"/>
+<pinref part="IC1" gate="G$1" pin="VCC@2"/>
+<wire x1="152.4" y1="-139.7" x2="152.4" y2="-137.16" width="0.1524" layer="91"/>
+<junction x="152.4" y="-137.16"/>
 </segment>
 <segment>
 <pinref part="JP_POWER_SOURCE" gate="1" pin="2"/>
@@ -30823,13 +30833,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <net name="N$18" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PC0(ADC0)"/>
-<wire x1="241.3" y1="-101.6" x2="200.66" y2="-101.6" width="0.1524" layer="91"/>
+<pinref part="J_ADC" gate="J1" pin="1"/>
+<wire x1="223.52" y1="-101.6" x2="200.66" y2="-101.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$15" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="PC1(ADC1)"/>
-<wire x1="200.66" y1="-104.14" x2="238.76" y2="-104.14" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="-104.14" x2="223.52" y2="-104.14" width="0.1524" layer="91"/>
+<pinref part="J_ADC" gate="J1" pin="2"/>
 </segment>
 </net>
 <net name="N$19" class="0">
