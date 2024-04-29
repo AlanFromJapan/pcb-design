@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="resistorcalculator-labels.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72841553"
+     inkscape:cx="186.70662"
+     inkscape:cy="164.05471"
+     inkscape:window-width="1610"
+     inkscape:window-height="986"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(11.761956,14.648759)"
+       id="g2488">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.142247"
+       y="19.937708"
+       id="text10957"><tspan
+         sodipodi:role="line"
+         id="tspan10955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.142247"
+         y="19.937708">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.183466"
+       y="19.993174"
+       id="text10957-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.183466"
+         y="19.993174">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.228302"
+       y="19.98835"
+       id="text10957-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.228302"
+         y="19.98835">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.429101"
+       y="29.926058"
+       id="text10957-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.429101"
+         y="29.926058">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.47032"
+       y="29.981524"
+       id="text10957-9-77"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.47032"
+         y="29.981524">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.515156"
+       y="29.976702"
+       id="text10957-9-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.515156"
+         y="29.976702">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.237864"
+       y="39.702904"
+       id="text10957-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.237864"
+         y="39.702904">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.279083"
+       y="39.758369"
+       id="text10957-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.279083"
+         y="39.758369">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.323921"
+       y="39.753548"
+       id="text10957-9-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.323921"
+         y="39.753548">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.333483"
+       y="49.931362"
+       id="text10957-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.333483"
+         y="49.931362">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.374702"
+       y="49.986828"
+       id="text10957-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.374702"
+         y="49.986828">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.41954"
+       y="49.982006"
+       id="text10957-9-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.41954"
+         y="49.982006">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(52.143909,14.961354)"
+       id="g2488-4">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-3">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-3" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-0">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-5" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-4" />
+    </g>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(11.761956,54.648759)"
+       id="g2488-6">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-8">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-9" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-03">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-7" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-3" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.142246"
+       y="59.937702"
+       id="text10957-26"><tspan
+         sodipodi:role="line"
+         id="tspan10955-52"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.142246"
+         y="59.937702">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.183466"
+       y="59.993168"
+       id="text10957-9-65"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.183466"
+         y="59.993168">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.228302"
+       y="59.988346"
+       id="text10957-9-7-79"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.228302"
+         y="59.988346">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.4291"
+       y="69.926056"
+       id="text10957-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.4291"
+         y="69.926056">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.47032"
+       y="69.981522"
+       id="text10957-9-77-1"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.47032"
+         y="69.981522">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.515156"
+       y="69.9767"
+       id="text10957-9-7-7-48"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.515156"
+         y="69.9767">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.237864"
+       y="79.702904"
+       id="text10957-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.237864"
+         y="79.702904">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.279083"
+       y="79.758369"
+       id="text10957-9-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.279083"
+         y="79.758369">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.323921"
+       y="79.753548"
+       id="text10957-9-7-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.323921"
+         y="79.753548">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="15.333482"
+       y="89.931366"
+       id="text10957-8-93"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-92"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="15.333482"
+         y="89.931366">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="25.374702"
+       y="89.986832"
+       id="text10957-9-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="25.374702"
+         y="89.986832">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="35.41954"
+       y="89.98201"
+       id="text10957-9-7-0-01"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="35.41954"
+         y="89.98201">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.524197"
+       y="20.250301"
+       id="text10957-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-59"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.524197"
+         y="20.250301">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.565422"
+       y="20.305767"
+       id="text10957-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-69"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.565422"
+         y="20.305767">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.610252"
+       y="20.300945"
+       id="text10957-9-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.610252"
+         y="20.300945">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.81105"
+       y="30.238651"
+       id="text10957-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.81105"
+         y="30.238651">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.852272"
+       y="30.294117"
+       id="text10957-9-77-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.852272"
+         y="30.294117">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.89711"
+       y="30.289295"
+       id="text10957-9-7-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.89711"
+         y="30.289295">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.619812"
+       y="40.015499"
+       id="text10957-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.619812"
+         y="40.015499">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.661034"
+       y="40.070965"
+       id="text10957-9-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.661034"
+         y="40.070965">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.705872"
+       y="40.066143"
+       id="text10957-9-7-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.705872"
+         y="40.066143">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.715431"
+       y="50.243958"
+       id="text10957-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.715431"
+         y="50.243958">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.756653"
+       y="50.299423"
+       id="text10957-9-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.756653"
+         y="50.299423">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.801491"
+       y="50.294601"
+       id="text10957-9-7-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.801491"
+         y="50.294601">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(93.366459,14.770448)"
+       id="g2488-1">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-1">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-08" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-5" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-06">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-2" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.74675"
+       y="20.059395"
+       id="text10957-86"><tspan
+         sodipodi:role="line"
+         id="tspan10955-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.74675"
+         y="20.059395">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.78796"
+       y="20.114861"
+       id="text10957-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.78796"
+         y="20.114861">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="116.8328"
+       y="20.110039"
+       id="text10957-9-7-72"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="116.8328"
+         y="20.110039">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="97.0336"
+       y="30.047747"
+       id="text10957-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="97.0336"
+         y="30.047747">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="107.07482"
+       y="30.103212"
+       id="text10957-9-77-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="107.07482"
+         y="30.103212">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="117.11966"
+       y="30.098391"
+       id="text10957-9-7-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-81"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="117.11966"
+         y="30.098391">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.842361"
+       y="39.824593"
+       id="text10957-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.842361"
+         y="39.824593">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.88358"
+       y="39.880058"
+       id="text10957-9-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.88358"
+         y="39.880058">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="116.92842"
+       y="39.875237"
+       id="text10957-9-7-9-34"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="116.92842"
+         y="39.875237">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.937981"
+       y="50.053047"
+       id="text10957-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.937981"
+         y="50.053047">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.9792"
+       y="50.108513"
+       id="text10957-9-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.9792"
+         y="50.108513">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="117.02404"
+       y="50.103691"
+       id="text10957-9-7-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="117.02404"
+         y="50.103691">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(133.18102,15.324214)"
+       id="g2488-3">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-38">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-05" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-6" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-6">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-40" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-4" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="136.56131"
+       y="20.613163"
+       id="text10957-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="136.56131"
+         y="20.613163">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="146.60252"
+       y="20.668629"
+       id="text10957-9-75"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-698"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="146.60252"
+         y="20.668629">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="156.64737"
+       y="20.663805"
+       id="text10957-9-7-728"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="156.64737"
+         y="20.663805">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="136.84818"
+       y="30.601513"
+       id="text10957-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="136.84818"
+         y="30.601513">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="146.88939"
+       y="30.656979"
+       id="text10957-9-77-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="146.88939"
+         y="30.656979">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="156.93422"
+       y="30.652157"
+       id="text10957-9-7-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="156.93422"
+         y="30.652157">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="136.65694"
+       y="40.378357"
+       id="text10957-6-13"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="136.65694"
+         y="40.378357">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="146.69815"
+       y="40.433823"
+       id="text10957-9-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-99"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="146.69815"
+         y="40.433823">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="156.74298"
+       y="40.429001"
+       id="text10957-9-7-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="156.74298"
+         y="40.429001">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="136.75255"
+       y="50.606815"
+       id="text10957-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="136.75255"
+         y="50.606815">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="146.79376"
+       y="50.662281"
+       id="text10957-9-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="146.79376"
+         y="50.662281">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="156.83861"
+       y="50.657459"
+       id="text10957-9-7-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="156.83861"
+         y="50.657459">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(163.18102,15.324214)"
+       id="g2488-7">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-0">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-8" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-04">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-6" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="166.56131"
+       y="20.613161"
+       id="text10957-04"><tspan
+         sodipodi:role="line"
+         id="tspan10955-22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="166.56131"
+         y="20.613161">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="176.60254"
+       y="20.668627"
+       id="text10957-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="176.60254"
+         y="20.668627">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="186.64737"
+       y="20.663805"
+       id="text10957-9-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="186.64737"
+         y="20.663805">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="166.84818"
+       y="30.601511"
+       id="text10957-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="166.84818"
+         y="30.601511">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="176.88939"
+       y="30.656977"
+       id="text10957-9-77-02"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="176.88939"
+         y="30.656977">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="186.93422"
+       y="30.652155"
+       id="text10957-9-7-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-80"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="186.93422"
+         y="30.652155">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="166.65694"
+       y="40.378357"
+       id="text10957-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="166.65694"
+         y="40.378357">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="176.69815"
+       y="40.433823"
+       id="text10957-9-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="176.69815"
+         y="40.433823">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="186.743"
+       y="40.429001"
+       id="text10957-9-7-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-62"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="186.743"
+         y="40.429001">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="166.75255"
+       y="50.606812"
+       id="text10957-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="166.75255"
+         y="50.606812">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="176.79378"
+       y="50.662277"
+       id="text10957-9-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-99"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="176.79378"
+         y="50.662277">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="186.83861"
+       y="50.657455"
+       id="text10957-9-7-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="186.83861"
+         y="50.657455">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(52.143909,54.961354)"
+       id="g2488-8">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-9">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-54" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-9">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-25" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-49" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-9" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.5242"
+       y="60.250301"
+       id="text10957-4"><tspan
+         sodipodi:role="line"
+         id="tspan10955-593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.5242"
+         y="60.250301">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.565422"
+       y="60.305767"
+       id="text10957-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-70"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.565422"
+         y="60.305767">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.61026"
+       y="60.300945"
+       id="text10957-9-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.61026"
+         y="60.300945">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.811054"
+       y="70.238647"
+       id="text10957-5-99"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-78"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.811054"
+         y="70.238647">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.852272"
+       y="70.294113"
+       id="text10957-9-77-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-53"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.852272"
+         y="70.294113">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.89711"
+       y="70.289291"
+       id="text10957-9-7-7-49"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.89711"
+         y="70.289291">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.619816"
+       y="80.015495"
+       id="text10957-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-01"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.619816"
+         y="80.015495">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.661041"
+       y="80.070961"
+       id="text10957-9-6-96"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.661041"
+         y="80.070961">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.705879"
+       y="80.066139"
+       id="text10957-9-7-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-07"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.705879"
+         y="80.066139">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="55.715435"
+       y="90.24395"
+       id="text10957-8-31"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="55.715435"
+         y="90.24395">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="65.75666"
+       y="90.299416"
+       id="text10957-9-9-05"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="65.75666"
+         y="90.299416">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="75.801498"
+       y="90.294594"
+       id="text10957-9-7-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-74"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="75.801498"
+         y="90.294594">*</tspan></text>
+    <g
+       inkscape:label="GridCartesian:X3:Y4"
+       transform="translate(93.366459,54.770448)"
+       id="g2488-0">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2476-6">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2472-47" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2474-4" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2484-8">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path2478-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 30"
+           inkscape:label="MajorYDiv2"
+           id="path2480-8" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 30"
+           inkscape:label="MajorYDiv3"
+           id="path2482-26" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.2"
+         inkscape:label="Border"
+         id="rect2486-0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.74675"
+       y="60.059395"
+       id="text10957-66"><tspan
+         sodipodi:role="line"
+         id="tspan10955-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.74675"
+         y="60.059395">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.78796"
+       y="60.114861"
+       id="text10957-9-62"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-89"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.78796"
+         y="60.114861">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="116.8328"
+       y="60.110039"
+       id="text10957-9-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="116.8328"
+         y="60.110039">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="97.0336"
+       y="70.047745"
+       id="text10957-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan10955-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="97.0336"
+         y="70.047745">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="107.07482"
+       y="70.10321"
+       id="text10957-9-77-10"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="107.07482"
+         y="70.10321">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="117.11966"
+       y="70.098389"
+       id="text10957-9-7-7-37"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-3-72"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="117.11966"
+         y="70.098389">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.842361"
+       y="79.824593"
+       id="text10957-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan10955-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.842361"
+         y="79.824593">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.88358"
+       y="79.880058"
+       id="text10957-9-6-52"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-3-02"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.88358"
+         y="79.880058">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="116.92842"
+       y="79.875237"
+       id="text10957-9-7-9-90"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="116.92842"
+         y="79.875237">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="96.937981"
+       y="90.053047"
+       id="text10957-8-94"><tspan
+         sodipodi:role="line"
+         id="tspan10955-12-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="96.937981"
+         y="90.053047">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="106.9792"
+       y="90.108513"
+       id="text10957-9-9-10"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-39-37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="106.9792"
+         y="90.108513">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+       x="117.02404"
+       y="90.103691"
+       id="text10957-9-7-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan10955-1-7-8-86"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';stroke-width:0.264583"
+         x="117.02404"
+         y="90.103691">*</tspan></text>
+  </g>
+</svg>
