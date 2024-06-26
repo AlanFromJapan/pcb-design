@@ -2168,16 +2168,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 87.63) (xy 160.02 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14517ea8-dd0c-495a-a9c3-aa4310513f7f")
-	)
-	(wire
-		(pts
 			(xy 162.56 78.74) (xy 161.29 78.74)
 		)
 		(stroke
@@ -2288,6 +2278,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 96.52) (xy 160.02 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "534f2632-717f-4149-b172-a731755b03b2")
+	)
+	(wire
+		(pts
 			(xy 209.55 86.36) (xy 209.55 99.06)
 		)
 		(stroke
@@ -2365,6 +2365,16 @@
 			(type default)
 		)
 		(uuid "6d707977-e012-4906-8094-85930803f9a6")
+	)
+	(wire
+		(pts
+			(xy 167.64 90.17) (xy 167.64 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e73775d-926e-4358-8749-f5a07b252d2d")
 	)
 	(wire
 		(pts
@@ -2458,16 +2468,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 90.17) (xy 167.64 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a16e8cd7-6f8c-4c16-b1d8-3abfb90a2cff")
-	)
-	(wire
-		(pts
 			(xy 153.67 80.01) (xy 161.29 80.01)
 		)
 		(stroke
@@ -2548,6 +2548,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 87.63) (xy 167.64 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd536eb4-27f4-447c-97c9-273831b93543")
+	)
+	(wire
+		(pts
 			(xy 140.97 113.03) (xy 143.51 113.03)
 		)
 		(stroke
@@ -2625,16 +2635,6 @@
 			(type default)
 		)
 		(uuid "d68b4345-d258-4ac1-8ae6-0a6d3ec2bc10")
-	)
-	(wire
-		(pts
-			(xy 160.02 87.63) (xy 167.64 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da83d3c2-b423-4066-8fd5-174c9ac6ae98")
 	)
 	(wire
 		(pts
@@ -3560,7 +3560,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical"
 			(at 137.16 144.78 90)
 			(effects
 				(font
@@ -3616,7 +3616,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 163.83 99.06 180)
+		(at 163.83 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3625,7 +3625,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a883ad0-66eb-45c9-87eb-c2e346db32b5")
 		(property "Reference" "Y1"
-			(at 163.83 91.44 0)
+			(at 163.83 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3633,7 +3633,7 @@
 			)
 		)
 		(property "Value" "Crystal"
-			(at 163.83 93.98 0)
+			(at 163.83 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3641,7 +3641,7 @@
 			)
 		)
 		(property "Footprint" "Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal"
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3650,7 +3650,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3659,7 +3659,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
