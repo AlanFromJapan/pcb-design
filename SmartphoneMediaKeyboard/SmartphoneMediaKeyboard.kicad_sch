@@ -3176,6 +3176,39 @@
 		)
 		(uuid "f6ff8a77-06f7-4eec-b832-249ea476ad19")
 	)
+	(rectangle
+		(start 132.08 80.01)
+		(end 201.93 129.54)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type color)
+			(color 98 110 255 0.45)
+		)
+		(uuid baa7bcd7-9ed1-42a5-b55a-ca3c353abcdd)
+	)
+	(text "USB signal part"
+		(exclude_from_sim no)
+		(at 140.462 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "74f41d2a-08b7-4643-b86f-a9ad0bd9c11a")
+	)
+	(text "R6 is to be connected to CC pin of the USB-C to indicate that \nthis device is to be powered by the Host with default USB 2 power \n(max 500mA)."
+		(exclude_from_sim no)
+		(at 213.868 136.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99ff0665-bca6-4a4b-aad6-93a658217919")
+	)
 	(label "D-"
 		(at 134.62 102.87 0)
 		(fields_autoplaced yes)
