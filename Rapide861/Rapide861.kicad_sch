@@ -2369,6 +2369,16 @@
 		)
 		(uuid "fc63e16c-71e1-4329-a860-ec98d8416c24")
 	)
+	(label "MOSI"
+		(at 154.94 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02771dc7-a5b2-4f7f-af19-3d1dd0872707")
+	)
 	(label "{slash}RST"
 		(at 152.4 113.03 0)
 		(effects
@@ -2378,6 +2388,16 @@
 			(justify left bottom)
 		)
 		(uuid "2deb9ac1-5b8a-4b93-87f2-13d687361b69")
+	)
+	(label "SCK"
+		(at 154.94 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "332e3bc0-7db0-4e82-802e-3b2588fd2566")
 	)
 	(label "MOSI"
 		(at 245.11 40.64 0)
@@ -2389,16 +2409,6 @@
 		)
 		(uuid "3a6c4872-b524-4e18-8836-34d193481f3e")
 	)
-	(label "MISO"
-		(at 152.4 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3fa6719f-7a57-49cd-b3aa-25be0d4433ae")
-	)
 	(label "{slash}RST"
 		(at 245.11 45.72 0)
 		(effects
@@ -2409,26 +2419,6 @@
 		)
 		(uuid "5bac6a77-7fe9-4a21-a4d3-7aeea3f0cfad")
 	)
-	(label "MOSI"
-		(at 152.4 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "69c7d719-db78-4850-8961-f64918b83ee4")
-	)
-	(label "SCK"
-		(at 152.4 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7f8d543c-0a9e-46b1-b414-058680c06d2f")
-	)
 	(label "SCK"
 		(at 245.11 43.18 0)
 		(effects
@@ -2438,6 +2428,16 @@
 			(justify left bottom)
 		)
 		(uuid "9c4350eb-552c-4be0-b23e-44ef194783ba")
+	)
+	(label "MISO"
+		(at 154.94 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9c74f0a-8b5e-46af-b6bb-553000f07bf6")
 	)
 	(label "MISO"
 		(at 245.11 38.1 0)
@@ -3362,10 +3362,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "341305b5-fb2c-4bf4-b411-597b235dc797")
+			(uuid "341305b5-fb2c-4bf4-b411-597b235dc798")
 		)
 		(pin "2"
-			(uuid "31186fc7-1dfc-40e0-9318-239686397d3b")
+			(uuid "31186fc7-1dfc-40e0-9318-239686397d3c")
 		)
 		(instances
 			(project ""
