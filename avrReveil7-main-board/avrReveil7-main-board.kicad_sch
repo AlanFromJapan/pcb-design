@@ -3927,6 +3927,12 @@
 		)
 	)
 	(junction
+		(at 54.61 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a05a498-57c4-4dc3-bc31-921b5f08fbc4")
+	)
+	(junction
 		(at 124.46 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4009,6 +4015,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ebc8d34-87df-4ee4-bb6b-65a182bcde36")
+	)
+	(junction
+		(at 54.61 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba7e8dbb-9f37-4a7c-b3a1-66d7ee843e40")
 	)
 	(junction
 		(at 124.46 124.46)
@@ -4321,6 +4333,16 @@
 			(type default)
 		)
 		(uuid "35538332-4c37-4343-aa2f-508b38db6e04")
+	)
+	(wire
+		(pts
+			(xy 54.61 100.33) (xy 66.04 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36426d2b-a281-4516-96ae-168f863be64c")
 	)
 	(wire
 		(pts
@@ -4874,6 +4896,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 90.17) (xy 120.65 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a230955f-197f-4a29-9043-7344f14dcc43")
+	)
+	(wire
+		(pts
 			(xy 80.01 72.39) (xy 80.01 27.94)
 		)
 		(stroke
@@ -5094,6 +5126,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 92.71) (xy 120.65 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4a449fd-2112-488a-9fe9-3c15a760305a")
+	)
+	(wire
+		(pts
 			(xy 34.29 107.95) (xy 49.53 107.95)
 		)
 		(stroke
@@ -5224,6 +5266,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 95.25) (xy 120.65 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e567420d-fed1-4617-ad3b-66c40176b69c")
+	)
+	(wire
+		(pts
 			(xy 140.97 120.65) (xy 138.43 120.65)
 		)
 		(stroke
@@ -5301,6 +5353,16 @@
 			(type default)
 		)
 		(uuid "f4c3c712-3a9b-4519-b84a-8b021be0fa1e")
+	)
+	(wire
+		(pts
+			(xy 54.61 107.95) (xy 66.04 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5e67929-6a01-42ff-8609-e2dc5445a3b8")
 	)
 	(wire
 		(pts
@@ -5852,7 +5914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 54.61 166.878 90)
 			(effects
 				(font
@@ -5922,7 +5984,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 253.238 66.04 90)
 			(effects
 				(font
@@ -6260,7 +6322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline_Wide"
 			(at 68.58 167.005 0)
 			(effects
 				(font
@@ -6909,6 +6971,79 @@
 			(project ""
 				(path "/fb45de46-6bf2-4f34-878c-6882c7a071ad"
 					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Sparkfun conn:Conn_01x03")
+		(at 135.89 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c01224f-c13b-4e2a-9a97-ead2b5be91c0")
+		(property "Reference" "J_PORTC2"
+			(at 135.89 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 135.89 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(at 135.89 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 135.89 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "fded50e3-8548-4823-be1d-b08bc7ae5e3a")
+		)
+		(pin "2"
+			(uuid "2deebea6-e9aa-4f30-b260-f3428909b517")
+		)
+		(pin "1"
+			(uuid "b54894d5-769f-4616-a889-598c86a38632")
+		)
+		(instances
+			(project "avrReveil7-main-board"
+				(path "/fb45de46-6bf2-4f34-878c-6882c7a071ad"
+					(reference "J_PORTC2")
 					(unit 1)
 				)
 			)
@@ -8024,6 +8159,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 66.04 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c81468be-1531-4fa6-ab9b-e86d688c4cde")
+		(property "Reference" "C7"
+			(at 69.85 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 69.85 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm"
+			(at 67.0052 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e5ed1b5-9e6b-40fd-84e3-2a79654a9146")
+		)
+		(pin "2"
+			(uuid "6cf987c5-8e50-4c9d-8b61-99b87c1005c2")
+		)
+		(instances
+			(project "avrReveil7-main-board"
+				(path "/fb45de46-6bf2-4f34-878c-6882c7a071ad"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Crystal")
 		(at 140.97 59.69 90)
 		(unit 1)
@@ -8349,10 +8554,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bae17dd-7c47-4372-9e44-6d3a1f3a9197")
+			(uuid "8bae17dd-7c47-4372-9e44-6d3a1f3a9198")
 		)
 		(pin "2"
-			(uuid "fbde3423-6334-4b2d-bd11-6cf36bd4cb6a")
+			(uuid "fbde3423-6334-4b2d-bd11-6cf36bd4cb6b")
 		)
 		(instances
 			(project ""
